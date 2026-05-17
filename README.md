@@ -62,8 +62,9 @@ Add your project screenshot here.
 
 Example:
 
-![Project Screenshot](screenshot.png)
-![Project Screenshot](Screenshot2.png)
+![Project Screenshot](./images/screenshot.png)
+
+![Project Screenshot](./images/Screenshot2.png)
 
 📈 Future Improvements
 
